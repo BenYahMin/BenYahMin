@@ -21,7 +21,11 @@ I’m currently learning node js and currently working on a react projects and u
   <div style="max-width="45%">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenYahMin&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl#streak)](https://git.io/streak-stats)
-  
+  <p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=BenYahMin&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="BenYahMin monthly coding activity" />
+</a>
+</p>
   </div>
 
  </div>
