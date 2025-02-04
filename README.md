@@ -1,4 +1,4 @@
-# Hi there am BenYahMin👋
+# Hey am BenYahMin👋
 I’m currently working on javascript, PHP and developing light weight programmes.
 I’m currently learning node js and currently working on a react projects and updating the elegant repos.
 ## My stacks
