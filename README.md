@@ -1,10 +1,10 @@
-# Hi there am Benjamin👋
-I’m currently working on php and developing light weight programmes.
+# Hi there am BenYahMin👋
+I’m currently working on javascript, PHP and developing light weight programmes.
 I’m currently learning node js and currently working on a react projects and updating the elegant repos.
 ## My stacks
-### Frontend:  html | js| css | reactjs| scss | bootstrap
+### Frontend:  html | css| js | bootstrap
 
-### Backend:  php | nodejs | mysql | JWT auth
+### Backend:  php | nodejs | mysql 
 
 ### others:  bash | batch | flutter | git
 
