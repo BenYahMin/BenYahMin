@@ -2,6 +2,14 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyahmin&label=Profile%20views&color=0e75b6&style=flat" alt="benyahmin" /> </p>
+=======
+# Hey am BenYahMin👋
+I’m currently working on javascript, PHP and developing light weight programmes.
+I’m currently learning node js and currently working on a react projects and updating the elegant repos.
+## My stacks
+### Frontend:  html | css| js | bootstrap
+
+### Backend:  php | nodejs | mysql 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benyahmin" alt="benyahmin" /></a> </p>
 
@@ -33,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benyahmin&show_icons=true&locale=en" alt="benyahmin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benyahmin&" alt="benyahmin" /></p>
+=======
+- 📫 How to reach me still on top: <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="59" height="59">
+- <a href="https://instagram.com/big.ben770">Instagram<img alt="Insta link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" height="50" width="50"></a>
