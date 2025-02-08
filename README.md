@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyahmin&label=Profile%20views&color=0e75b6&style=flat" alt="benyahmin" /> </p>
-=======
+
 # Hey am BenYahMin👋
 I’m currently working on javascript, PHP and developing light weight programmes.
 I’m currently learning node js and currently working on a react projects and updating the elegant repos.
