@@ -1,4 +1,5 @@
-Important Notice:
+# Important Notice:
+## Code Of Conduct
 
 This file is made available for use, but it is crucial that all users follow the guidelines outlined below to ensure it is used appropriately.
 1. Use for Authorized Purposes Only
@@ -19,4 +20,4 @@ Always ensure that your use of the file is ethical and in accordance with any re
 6. Acknowledgment and Compliance
 By using this file, you acknowledge that you understand and agree to these terms. Failure to comply with these guidelines could result in actions being taken to protect the integrity and safety of the file and its contents.
 We trust that you will use this file in a responsible and respectful manner. Thank you for your cooperation.
-7. YOU MUST LEAVE A LIKE IF YOU FIND YOURSELF USING THIS FILE TO ACKNOWLEDGE AND APPRECIATE MY EFFORT AND WORK WELL DONE. FORKS ARE ALLOWED TOO. A SPONSOR WOULD BE APPRECIATED.
+## 7. YOU MUST LEAVE A LIKE IF YOU FIND YOURSELF USING THIS FILE TO ACKNOWLEDGE AND APPRECIATE MY EFFORT AND WORK WELL DONE. FORKS ARE ALLOWED TOO. A SPONSOR WOULD BE APPRECIATED.
