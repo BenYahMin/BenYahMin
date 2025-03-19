@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm BenYahMin</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+# <div align="center" font-color="blue" font-size="large">Welcome to my profile!</div>
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+BenYahMin;He/Him;Statistics+Student;Kenyan+Frontend+Developer;Chess+Lover;Internet+Lover;function+findQuestion(42)" alt="Statistics Student, Kenyan front-end developer(Upcoming full-stack Dev.), Internet lover"></a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyahmin&label=Profile%20views&color=0e75b6&style=flat" alt="benyahmin" /> </p>
 
 # Hey am BenYahMin👋
