@@ -47,3 +47,17 @@ I’m currently learning node js and currently working on a react projects and u
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benyahmin&" alt="benyahmin" /></p>
 - 📫 How to reach me still on top: <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="59" height="59">
 - <a href="https://instagram.com/big.ben770">Instagram<img alt="Insta link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" height="50" width="50"></a>
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/BenYahMin/BenYahMin/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/BenYahMin/BenYahMin/discussions/new/choose">Discussions</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/BenYahMin/BenYahMin/blob/main/assets/footer.png"></div>
+
