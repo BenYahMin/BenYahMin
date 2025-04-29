@@ -49,7 +49,7 @@ I’m currently learning node js and currently working on react projects and upd
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/BenYahMin/BenYahMin/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSDXmnHMdKpdfjjRVcZvJxwhHPVPmsjGjCRmVjSGZsWZlwTTQrwCpnqXcvdkpCHndbbfbMhR">Here</a>a>
-Discussions</a>!</p>
+<a>Discussions</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
