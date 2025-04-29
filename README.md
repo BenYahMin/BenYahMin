@@ -48,7 +48,8 @@ I’m currently learning node js and currently working on react projects and upd
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/BenYahMin/BenYahMin/issues/new?template=guestbook-entry.md">here</a>!</p>
-<p>Or ask me anything at <a href="https://github.com/BenYahMin/BenYahMin/discussions/new/choose">Discussions</a>!</p>
+<p>Or ask me anything at [📧 Email me](mailto:benjaminkithome2021@gmail.com?subject=&body=Hello%20how%20are%20you)
+Discussions</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
