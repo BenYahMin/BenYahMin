@@ -13,6 +13,8 @@ I’m currently learning node js and currently working on react projects and upd
 
 ### Backend:  php | nodejs | mysql 
 
+### Data and Analytics: R | Python
+
 ### Learning: SQL | R | Python
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benyahmin" alt="benyahmin" /></a> </p>
