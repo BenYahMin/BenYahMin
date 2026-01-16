@@ -11,7 +11,7 @@ I’m currently learning node js and currently working on react projects and upd
 ## My stacks
 ### Frontend:  html | css| js | bootstrap
 
-### Backend:  php | nodejs | mysql 
+### Backend:  php | nodejs | mysql | python
 
 ### Data and Analytics: R | Python
 
