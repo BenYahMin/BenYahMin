@@ -1,6 +1,6 @@
 <div align="center" id="top">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+BenYahMin+👋;Statistics+%26+Actuarial+Student;Machine+Learning+%26+AI+Developer;Pandas%2C+Matplotlib+%26+Seaborn;Advanced+Excel+%26+MS+Office+Expert" alt="BenYahMin Headline Loop" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Benjamin+👋;Statistics+Student;Machine+Learning+%26+AI+Developer;Pandas%2C+Matplotlib+%26+Seaborn;Advanced+Excel+%26+MS+Office+Expert" alt="BenYahMin Headline Loop" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=benyahmin&label=Profile+Views&color=7E3ACE&style=flat-square" alt="Profile Views Tracker" />
