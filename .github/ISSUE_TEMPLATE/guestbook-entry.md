@@ -1,8 +1,8 @@
 ---
 name: Guestbook Entry
-description: Leave a cool message or just say you passed by!
+about: Leave a cool message or just say you passed by!
 title: '📖 [Guestbook]: '
-labels: guestbook
+labels: 'guestbook'
 assignees: BenYahMin
 ---
 
