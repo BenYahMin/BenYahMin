@@ -79,6 +79,7 @@ I am a **Statistics** student sitting at the intersection of mathematical theory
 
 ## 📖 System Workspace Audit Logs
 
+* **Interactive Terminal Guestbook:** Leave a public trace or message by opening a new log file line entry [directly inside my Guestbook Issues Pipeline](https://github.com/BenYahMin/BenYahMin/issues/new?title=%F0%9F%93%96%20%5BGuestbook%5D%3A%20&body=%23%23%20%F0%9F%9B%B0%EF%B8%8F%20Incoming%20Message%20Matrix%0A%0A*%20**Your%20Name%2FHandle%3A**%20%0A*%20**Where%20are%20you%20tuning%20in%20from%3F**%20%0A*%20**Message%3A**%20%0A%0A---%0A_Thanks%20for%20stopping%20by%20my%20quantitative%20workspace!_)
 * **Interactive Terminal Guestbook:** Leave a public trace or message by opening a new log file line entry [directly inside my Guestbook Issues Pipeline](https://github.com/BenYahMin/BenYahMin/issues/new?title=Guestbook+Entry&body=Leave+your+cool+message+here!+✏️)!
 * **Direct Comms Socket:** Reach my inbox matrix securely at <a href="mailto:benjaminkithome2021@gmail.com">benjaminkithome2021@gmail.com</a>.
 
